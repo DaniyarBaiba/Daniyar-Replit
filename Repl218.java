@@ -25,7 +25,7 @@ public class Repl218{
        list.add("TV");
        list.add("CAR");
        list.add("CAR");
-      Sistem.out.println(Repl218.countDeviceNames(lis));
+      Sistem.out.println(Repl218.countDeviceNames(list));
     }
   }
    
